@@ -1,33 +1,18 @@
-## Welcome to GitHub Pages
+<p align="center">
+  <img width="460" height="300" src="https://drive.google.com/file/d/17Z04zr-ZFErtJ_zB5oUB9UpZDs7oDZ5R/view?usp=sharing">
+</p>
 
-You can use the [editor on GitHub](https://github.com/Lshahbandayeva/lshahbandayeva.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align = 'center'>Lala Shahbandayeva</p>
 
-### Markdown
+Highly motivated Data Scientist with strong academic background in BS in Computer Science. Experienced in Python, Data Analysis and Deep Learning with the research interest in Adversarial Machine Learning. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects
 
-```markdown
-Syntax highlighted code block
+[Click here to see projects](https://github.com/Lshahbandayeva).
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Publications
 
-1. Numbered
-2. List
+[3rd International Scientific Conference of Young Researchers](http://yric.az/GTK_Book_1.pdf), page 355.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lshahbandayeva/lshahbandayeva.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
