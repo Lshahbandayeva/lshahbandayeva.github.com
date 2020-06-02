@@ -1,8 +1,3 @@
-<p align="center">
-  <img width="460" height="460" src="https://github.com/Lshahbandayeva/lshahbandayeva.github.com/blob/master/img.png">
-</p>
-
-
 <h2 align = 'center'>
   <strong>Lala Shahbandayeva</strong>
 </h2>
