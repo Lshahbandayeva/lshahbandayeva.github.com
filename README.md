@@ -3,7 +3,10 @@
 </p>
 
 
-<p align = 'center'>Lala Shahbandayeva</p>
+<h2 align = 'center'>
+  <strong>Lala Shahbandayeva</strong>
+</h2>
+
 
 Highly motivated Data Scientist with strong academic background in BS in Computer Science. Experienced in Python, Data Analysis and Deep Learning with the research interest in Adversarial Machine Learning. 
 
