@@ -5,6 +5,7 @@
 
 Diligent and self-motivated professional who eagers to learn new skills in an organization through contributing to the organization’s growth and in return capitalizing my technical skills and abilities. Experienced in ML, DL and Python (pandas, numpy, matplotlib, seaborn, scikit-learn, Tensorflow, Keras, PyTorch, etc.) with the research interest in statistical and adversarial machine learning, neuro-symbolic AI and applications of deep learning.
       
+![image/blob/master/img.png/img.png](path/to/image.png)
 
 ### Projects
 
