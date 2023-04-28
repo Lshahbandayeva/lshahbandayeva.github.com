@@ -3,7 +3,8 @@
 </h2>
 
 
-Highly motivated Data Scientist with strong academic background in BS in Computer Science. Experienced in Python, Data Analysis and Deep Learning with the research interest in Adversarial Machine Learning. 
+Diligent and self-motivated professional who eagers to learn new skills in an organization through contributing to the organization’s growth and in return capitalizing my technical skills and abilities. Experienced in ML, DL and Python (pandas, numpy, matplotlib, seaborn, scikit-learn, Tensorflow, Keras, PyTorch, etc.) with the research interest in statistical and adversarial machine learning, neuro-symbolic AI and applications of deep learning.
+      
 
 ### Projects
 
