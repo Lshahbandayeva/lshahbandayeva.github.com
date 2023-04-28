@@ -17,5 +17,4 @@ Diligent and self-motivated professional who eagers to learn new skills in an or
 
 ### Publications
 
-[3rd International Scientific Conference of Young Researchers](http://yric.az/GTK_Book_1.pdf), page 355.
-
+L. Shahbandayeva, U. Mammadzada, I. Manafova, S. Jafarli and A. Z. Adamov, "Network Intrusion Detection 2022 IEEE 16th International Conference on Application of Information and Communication Technologies (AICT), Washington DC, DC, USA, 2022, pp. 1-7, doi: 10.1109/AICT55583.2022.10013594.
